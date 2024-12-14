@@ -4,9 +4,9 @@
 
 Michael Rossetti is a data scientist, software developer, and machine learning researcher. He has worked as a polling data analyst for a winning US Presidential campaign, a data analytics director for a Silicon Valley startup, and a technology consultant for the US Government. He teaches courses in data science, computer science, and software development, and conducts research in applied machine learning.
 
-## Machine Learning Experience
+## Machine Learning Research Experience
 
-Machine learning researcher with extensive experience in industry and academia. Proficient in supervised methods including regression and classification, and unsupervised methods including dimensionality reduction and clustering. Familiar with reinforcement learning, deep learning, and neural networks, including convolutional and recurrent networks. Experienced in model training, validation, and optimization, including hyperparameter tuning through techniques like grid search with cross-validation. Specializes in natural language processing (NLP), content recommendation systems, and development of novel applications for large language models (LLMs), including retrieval augmented generation (RAG). 
+Machine learning researcher with extensive experience in industry and academia. Proficient in supervised methods including **regression** and **classification**, and unsupervised methods including **dimensionality reduction** and **clustering**. Familiar with reinforcement learning, deep learning, and neural networks, including convolutional and recurrent networks. Experienced in model training, validation, and optimization, including hyperparameter tuning through techniques like grid search with cross-validation. Specializes in **natural language processing (NLP)**, content recommendation systems, and development of novel applications for **large language models (LLMs)**, including **retrieval augmented generation (RAG)**. 
 
 ## Machine Learning Research Projects
 
