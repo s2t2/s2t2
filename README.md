@@ -1,7 +1,5 @@
 # Michael J Rossetti
 
-https://michael-rossetti.org/
-
 ## Bio
 
 Michael Rossetti is a data scientist, software developer, and machine learning researcher. He has worked as a polling data analyst for a winning US Presidential campaign, a data analytics director for a Silicon Valley startup, and a technology consultant for the US Government. He teaches courses in data science, computer science, and software development, and conducts research in applied machine learning.
@@ -12,7 +10,7 @@ Machine learning researcher with extensive experience in industry and academia. 
 
 ## Machine Learning Research Projects
 
-**Political Debate AI Assessment Tool (2024)**:
+**Political Debate Assessment Tool / AI Voter Survey (2024)**:
 
 Created AI tools in Python to provide automated and impartial assessments of US Presidential debates. Performed retrieval augmented generation using a large language model (Claude from Anthropic). Leveraged AI to identify memorable quotes, assess moderator fairness, assess which candidate won the debate, and assess how likely certain demographic groups are to vote for each candidate.
 
